@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["os"] = [{"text":"impl ErrorType for <a class=\"struct\" href=\"os/drivers/serial/ns16550a/struct.Ns16550a.html\" title=\"struct os::drivers::serial::ns16550a::Ns16550a\">Ns16550a</a>","synthetic":false,"types":["os::drivers::serial::ns16550a::Ns16550a"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

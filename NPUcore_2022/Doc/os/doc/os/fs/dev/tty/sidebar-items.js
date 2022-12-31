@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["TeletypeCommand",""]],"struct":[["LocalModes",""],["TTY",""],["Teletype",""],["TeletypeInner",""],["Termios","The termios functions describe a general terminal interface that is provided to control asynchronous communications ports."],["WinSize",""]]});

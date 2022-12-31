@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["BACKWARD",""],["FORWARD",""],["STEP_SIZE",""]],"enum":[["DirIterMode",""]],"struct":[["DirIter",""],["DirWalker",""]]});

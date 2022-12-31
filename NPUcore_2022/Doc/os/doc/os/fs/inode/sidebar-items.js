@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DiskInodeType",""]],"fn":[["list_apps",""],["open",""],["open_root_inode",""]],"struct":[["DirectoryTreeNode",""],["FILE_SYSTEM",""],["OSInode",""],["ROOT",""]],"type":[["InodeImpl",""]]});

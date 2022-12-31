@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["BUFFER_SIZE",""],["CACHEPOOLPAGE",""],["CACHEPOOLSIZE",""],["PAGE_BUFFERS",""],["PRIORITY_UPPERBOUND",""]],"struct":[["BlockCacheManager",""],["BufferCache",""]]});

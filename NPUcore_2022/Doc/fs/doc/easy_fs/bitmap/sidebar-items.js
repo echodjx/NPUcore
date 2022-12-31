@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["BLOCK_BITS",""],["EOC",""],["FAT_ENTRY_FREE",""],["FAT_ENTRY_RESERVED_TO_END",""],["VACANT_CLUS_CACHE_SIZE",""]],"struct":[["Fat","In-memory data structure In FAT32, there are 2 FATs by default. We use ONLY the first one."]]});

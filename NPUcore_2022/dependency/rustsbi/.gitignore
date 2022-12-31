@@ -1,0 +1,7 @@
+/target
+/.idea
+/platform/*/.idea
+/rustsbi/.idea
+Cargo.lock
+
+.DS_Store

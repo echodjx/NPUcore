@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["push_elf_area","Push the elf area if found, or try to allocate space for reading in. If no space is left, a GC through `try_remove()` will be triggered."],["try_remove_elf","The ELF vec garbage collector that consumes a `ELF_CACHE.read()` guard."]],"struct":[["ELF_CACHE","The static global struct to store the ELF MapAreas."]]});

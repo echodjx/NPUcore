@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["BUFFER_SIZE",""],["PAGE_BUFFERS",""],["PRIORITY_UPPERBOUND",""]],"fn":[["oom","!!! remember to connect oom with frame_allocator"]],"struct":[["PAGECACHE_MANAGER",""],["PageCache","PageCache is used for kernel. Each PageCache contains PAGE_BUFFERS(8) BufferCache."],["PageCacheManager",""]]});
